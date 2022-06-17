@@ -1,7 +1,7 @@
 import './App.css'
-import SearchBar from './SearchBar/SearchBar';
+import SearchBar from '../SearchBar/SearchBar';
 
-function App() {
+const App = () => {
   return (
     <div>
     <h1>Ja<span className="highlight">mmm</span>ing</h1>
